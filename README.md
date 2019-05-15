@@ -1,2 +1,2 @@
 # cron
-Count days with cron jobs since 15.05.19
+Script automaticlly add 1 to a number every day at 00:00
