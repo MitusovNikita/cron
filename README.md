@@ -1,2 +1,3 @@
 # cron
-Script automaticlly add 1 to a number every day at 00:00
+Пример обработки скрипта через https://cron-job.org.
+Скрипт увеличивает значение переменной на 1 каждый день в 00:00
